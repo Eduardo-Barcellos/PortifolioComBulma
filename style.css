@@ -1,0 +1,17 @@
+.main {
+    margin-top: 5%;
+}
+
+.sobre-mim {
+    font-weight: bold;
+
+}
+
+.no-padding {
+    padding: 0;
+    margin-top: 20px;
+}
+
+.fotosite {
+    width: 170px;
+}
